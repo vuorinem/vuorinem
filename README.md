@@ -1,4 +1,4 @@
-![Mountains and clouds](./bg.jpg)
+![Mountains and clouds](https://raw.githubusercontent.com/vuorinem/vuorinem/master/bg.jpg)
 
 <!--
 **vuorinem/vuorinem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
