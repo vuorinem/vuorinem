@@ -6,6 +6,6 @@ learning new things and improving myself, everyone else, and the planet.
 
 ---
 
-[Twitter](https://twitter.com/mvuorinen) |
+[Mastodon](https://mastodon.online/@mvuorinen) |
 [DevTo](https://dev.to/mvuorinen) |
 [LinkedIn](https://www.linkedin.com/in/mikkovuorinen)
